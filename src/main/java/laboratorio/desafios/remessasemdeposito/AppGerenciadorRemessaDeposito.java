@@ -85,7 +85,7 @@ public class AppGerenciadorRemessaDeposito {
         imprimirStatusArmazenamento(depositoCEASAAJU.obterStatusArmazenamento());
 
         ///////////////////////////////////////////////////////////////////////////////////////
-        //Recuperando Próximo Item (Data de Validade Mais Próxima) de Uma Determinada Remessa//
+        //Recuperando  o Próximo Item (Data de Validade Mais Próxima) de Uma Determinada Remessa//
         ///////////////////////////////////////////////////////////////////////////////////////
 
         System.out.println("\n");
